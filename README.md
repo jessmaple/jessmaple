@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on [PHIN DIR](https://www.cdc.gov/phin/tools/phindir/index.html)
 - 📫 How to find me: 
   - :bulb: [substack](https://maple.substack.com/p/coming-soon?showWelcome=true)
-  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/jessmaple/)
 
 
