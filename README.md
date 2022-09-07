@@ -16,5 +16,4 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ### Let's Connect
-[![substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logocolor=white)](https://maple.substack.com/p/coming-soon?showWelcome=true)
 [![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/jessmaple/)
