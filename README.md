@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Jessica 👋🏽
 
-<!--
-**jessmaple/jessmaple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I love programming, data, and writing
+- 🔭 I’m currently working on [PHIN DIR](https://www.cdc.gov/phin/tools/phindir/index.html)
+- 📫 How to find me: 
+  - :bulb: [substack](https://maple.substack.com/p/coming-soon?showWelcome=true)
+  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/jessmaple/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jessmaple&show_icons=true&theme=tokyonight" width="400" height="150"/>
+</a>
