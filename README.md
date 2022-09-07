@@ -6,6 +6,7 @@
 📫 How to find me: 
 ![Substack](https://img.sheilds.io/badge/substack-FF6719?style=for-the-badge&logo=substack&logocolor=white)
 ![Linkedin](https://img.sheilds.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logocolor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
