@@ -2,7 +2,7 @@
 
 
 - 🌱 I love programming, data, and writing
-- 🔭 I’m currently working on [PHIN DIR](https://www.cdc.gov/phin/tools/phindir/index.html)
+- 🔭 I’m currently working on [PHINDIR](https://www.cdc.gov/phin/tools/phindir/index.html)
 - 📫 How to find me: 
   - :bulb: [substack](https://maple.substack.com/p/coming-soon?showWelcome=true)
   - :office: [LinkedIn](https://www.linkedin.com/in/jessmaple/)
