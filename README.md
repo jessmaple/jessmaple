@@ -1,12 +1,11 @@
 ### Hi there, I'm Jessica 👋🏽
 
 
-- 🌱 I love programming, data, and writing
-- 🔭 currently working on [PHINDIR](https://www.cdc.gov/phin/tools/phindir/index.html)
-- 📫 How to find me: 
-![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logocolor=white)
-![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logocolor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+* 🌱 I love programming, data, and writing
+* 🔭 currently working on [PHINDIR](https://www.cdc.gov/phin/tools/phindir/index.html)
+* 📫 How to find me: 
+[![substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logocolor=white)](https://maple.substack.com/p/coming-soon?showWelcome=true)
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/jessmaple/)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
