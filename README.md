@@ -4,8 +4,8 @@
 🌱 I love programming, data, and writing
 🔭 I’m currently working on [PHINDIR](https://www.cdc.gov/phin/tools/phindir/index.html)
 📫 How to find me: 
-  ![substack](https://img.sheilds.io/badge/substack-#FF6719?style=for-the-badge&logo=substack&logocolor=white)
-  ![linkedin](https://img.sheilds.io/badge/linkedin-#0A66C2?style=for-the-badge&logo=linkedin&logocolor=white)
+  ![Substack](https://img.sheilds.io/badge/substack-#FF6719?style=for-the-badge&logo=substack&logocolor=white)
+  ![Linkedin](https://img.sheilds.io/badge/linkedin-#0A66C2?style=for-the-badge&logo=linkedin&logocolor=white)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
