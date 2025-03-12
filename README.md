@@ -1,8 +1,8 @@
 ### Hi there, I'm Jessica 👋🏽
 
 
-* I love creating data solutions 
-* currently working on [PHINDIR](https://www.cdc.gov/phin/tools/phindir/index.html)
+* I love creating data solutions
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jessmaple&show_icons=true&theme=tokyonight" width="400" height="150"/>
