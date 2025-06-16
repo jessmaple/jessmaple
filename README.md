@@ -12,6 +12,10 @@ Projects reflect hands-on work with OID registries, FHIR mappings, and real-worl
 - XSLT, Python scripting, SQL automation
 - Simulated Rhapsody routing flows in Node.js
 
+
+
+
+<!--
 🚀 Featured Projects:
 - HL7 → FHIR transformation pipelines
 - PHIN-style Admin UI mock
@@ -20,7 +24,10 @@ Projects reflect hands-on work with OID registries, FHIR mappings, and real-worl
 
 
 
-<!--### Hi there, I'm Jessica 👋🏽
+
+
+
+### Hi there, I'm Jessica 👋🏽
 
 
 * I love creating data solutions
