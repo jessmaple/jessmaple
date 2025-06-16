@@ -18,10 +18,6 @@ Projects reflect hands-on work with OID registries, FHIR mappings, and real-worl
 - CCDA to FHIR XSLT mapper
 - SMART on FHIR auth client prototype
 
-📁 GitHub showcases my work on real-world HL7/FHIR problems using open tools and public data — explore the repos!
-
-
-
 
 
 <!--### Hi there, I'm Jessica 👋🏽
