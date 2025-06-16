@@ -1,5 +1,5 @@
 
-🔗 HL7 Integration Specialist | FHIR • Rhapsody (Simulated) • Mirth • JavaScript • Public Health Interoperability
+🔗 HL7 Integration Specialist | FHIR • Rhapsody • Mirth • JavaScript • Public Health Interoperability
 
 Public health-focused Integration Engineer with 4+ years of experience at the CDC modernizing HL7-based systems. I specialize in healthcare data exchange using HL7 v2.x, FHIR, JavaScript, and interface engines like Mirth Connect.
 
