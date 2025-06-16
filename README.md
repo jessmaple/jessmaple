@@ -1,4 +1,30 @@
-### Hi there, I'm Jessica 👋🏽
+
+🔗 HL7 Integration Specialist | FHIR • Rhapsody (Simulated) • Mirth • JavaScript • Public Health Interoperability
+
+Public health-focused Integration Engineer with 4+ years of experience at the CDC modernizing HL7-based systems. I specialize in healthcare data exchange using HL7 v2.x, FHIR, JavaScript, and interface engines like Mirth Connect.
+
+Projects reflect hands-on work with OID registries, FHIR mappings, and real-world HL7 transformations — bridging public health, engineering, and QA. I simulate Rhapsody routing logic through custom JavaScript pipelines and actively build open-source tools for data interoperability.
+
+🔧 Tech Focus:
+- HL7 v2.x (ADT, ORU, ORM), FHIR standards
+- Mirth Connect (JavaScript transformers, channel design)
+- API & EDI integrations, Postman, JSON/XML
+- XSLT, Python scripting, SQL automation
+- Simulated Rhapsody routing flows in Node.js
+
+🚀 Featured Projects:
+- HL7 → FHIR transformation pipelines
+- PHIN-style Admin UI mock
+- CCDA to FHIR XSLT mapper
+- SMART on FHIR auth client prototype
+
+📁 GitHub showcases my work on real-world HL7/FHIR problems using open tools and public data — explore the repos!
+
+
+
+
+
+<!--### Hi there, I'm Jessica 👋🏽
 
 
 * I love creating data solutions
@@ -23,4 +49,4 @@
 
 
 ### Let's Connect
-[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/jessmaple/)
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/jessmaple/) -->
