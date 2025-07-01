@@ -37,6 +37,7 @@ Projects reflect hands-on work with OID registries, FHIR mappings, and real-worl
 - CCDA to FHIR XSLT mapper
 - SMART on FHIR auth client prototype
 
+HL7/FHIR Integration Specialist | Rhapsody, JavaScript, APIs | Building healthcare data flows for EHRs, HIEs & cloud platforms.
 
 
 
