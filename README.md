@@ -1,4 +1,19 @@
+# 👋 Hi there, I’m Jessica  
 
+## 🚀 About Me
+I’m currently a **Quality Assurance Engineer & contractor for a government health agency** with 4+ years ensuring the accuracy and reliability of HL7-based public-health systems. Leveraging deep QA expertise, I’m now pivoting toward full-time Integration Engineering roles, where I can:
+
+- Develop and validate HL7 v2.x ↔ FHIR transformations  
+- Build and test Mirth Connect channels end-to-end  
+- Simulate complex Rhapsody routing logic with JavaScript pipelines  
+- Contribute to open-source interoperability tools  
+
+📌 **Actively seeking** Integration Engineer positions to blend my QA rigor with hands-on data-exchange development.
+
+
+
+
+<!--
 🔗 HL7 Integration Specialist | FHIR • Rhapsody • Mirth • JavaScript • Public Health Interoperability
 
 Public health-focused Integration Engineer with 4+ years of experience at the CDC modernizing HL7-based systems. I specialize in healthcare data exchange using HL7 v2.x, FHIR, JavaScript, and interface engines like Mirth Connect.
