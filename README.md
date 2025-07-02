@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Jessica  
 
 ## 🚀 About Me
-I’m currently a **Quality Assurance Engineer & contractor for a government health agency** with 4+ years ensuring the accuracy and reliability of HL7-based public-health systems. Leveraging deep QA expertise, I’m now pivoting toward full-time Integration Engineering roles, where I can:
+I’m currently a **Quality Assurance Engineer & contractor for a federal government health agency** with 4+ years ensuring the accuracy and reliability of HL7-based public-health systems. Leveraging deep QA expertise, I’m now pivoting toward full-time Integration Engineering roles, where I can:
 
 📌 **Actively seeking** Integration Engineer positions to blend my QA rigor with hands-on data-exchange development.
 
