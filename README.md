@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Jessica  
 
 ## 🚀 About Me
-I’m currently a **Quality Assurance Engineer & contractor for a federal government health agency** with 4+ years ensuring the accuracy and reliability of HL7-based public-health systems. .
+I’m currently a **Quality Assurance Engineer & contractor for a federal government health agency** with 4+ years ensuring the accuracy and reliability of HL7-based public-health systems. Intrested in pivoting to AI and Data 
 
 <!---
 - Develop and validate HL7 v2.x ↔ FHIR transformations  
