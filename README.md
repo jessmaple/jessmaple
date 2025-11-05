@@ -1,6 +1,5 @@
 
 # 👋 Hi there, I’m Jessica  
-🚀 About Me
 I’m a Test Automation Engineer. 
 
 <!---
