@@ -1,4 +1,4 @@
-# Hi, I'm Jessica Maple 👋
+# Hi, I'm Jessica 👋
 
 I'm a **Test Automation Engineer** passionate about building reliable, scalable testing solutions that help teams ship high-quality software with confidence.  
 
