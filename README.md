@@ -8,7 +8,7 @@ I specialize in **Playwright**, **Selenium**, **API testing**, and **CI/CD-drive
 
 ## 🔧 Current Role  
 **QA Engineer @ AcariaHealth**  
-Working on frontend testing for ScriptMed’s cloud modernization, building automated checks, validating UI/UX workflows, and contributing to stable, scalable quality processes.
+Working on frontend testing for ScriptMed’s cloud modernization.
 
 ---
 
