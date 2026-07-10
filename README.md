@@ -1,8 +1,19 @@
 # Hi, I'm Jessica 👋🏾 ✿
 
-Senior QA Engineer 
+**breaking workflows on purpose!**
 
-I build workflow-based quality strategies for healthcare and public-health systems, connecting UI behavior, API validation, and backend data checks into reliable end-to-end testing.
+</div>
+
+## ✦ about me
+
+- atlanta-based qa engineer focused on healthcare + public-health systems
+- i like workflow-based testing, automation, root cause analysis, and clean evidence-backed bug reports
+- currently building toward ai testing architecture, smarter automation, and better qa tooling
+- cis student at georgia state, concentrating in data analytics
+
+
+
+
 
 ## Connect
 - LinkedIn: www.linkedin.com/in/jessmaple
