@@ -1,5 +1,10 @@
 # Hi, I'm Jessica 👋
 
-I'm a **Test Automation Engineer** passionate about building reliable, scalable testing solutions that help teams ship high-quality software with confidence.  
+Senior QA Engineer 
 
-I specialize in **Playwright**, **Selenium**, **API testing**, and **CI/CD-driven automation**, with experience spanning public health, cloud modernization, and enterprise applications.
+I build workflow-based quality strategies for healthcare and public-health systems, connecting UI behavior, API validation, and backend data checks into reliable end-to-end testing.
+
+## Connect
+- LinkedIn: www.linkedin.com/in/jessmaple
+
+
