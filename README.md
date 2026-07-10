@@ -1,4 +1,4 @@
-# Hi, I'm Jessica 👋
+# Hi, I'm Jessica 👋🏾 ✿
 
 Senior QA Engineer 
 
