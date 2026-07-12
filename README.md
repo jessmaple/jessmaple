@@ -13,7 +13,7 @@
 
 ## ✦ current focus
 
-- end-to-end testing for pharmacy workflows
+- end-to-end testing for healthcare workflows
 - automation for ui, api, and downstream data validation
 - building practical ai-assisted tools for qa teams
 - growing from qa engineer into ai test architect
